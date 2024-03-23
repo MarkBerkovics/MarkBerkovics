@@ -3,8 +3,8 @@
 ### I believe that in order to make better decisions that have a positive impact we should base them on data
 
 * #### 🏋🏻‍♂️ I'm currently working on [BandIt](https://github.com/MarkBerkovics/BandIt) 🎸 🥁
-  A generative AI model that creates music utilizing transformers architechture.<br>
-  More specifically, you give it guitar tracks and it generates corresponding drum track.<br>
+  A generative AI model that creates music utilizing transformers architecture.<br>
+  More specifically, you give it guitar tracks and it generates corresponding drums track.<br>
   In the future I intend to include more musical instruments.
 
 * #### 👯‍♂️ I'm looking to collaborate on projects that use data science for the greater good 🌳
