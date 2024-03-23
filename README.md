@@ -1,5 +1,5 @@
 # Hi and welcome 👋🏻 I'm Mark Berkovics
-## Data Scientist | Turning data into Insights & Actions | Deep Learning and AI Enthusiast 🧠🤖
+## Data Scientist | Turning data into Insights & Actions | Deep Learning and AI Enthusiast 🧠
 ### I believe that in order to make better decisions that have a positivr impact we should base them on data
 
 * #### 🏋🏻‍♂️ I'm currently working on [BandIt](https://github.com/MarkBerkovics/BandIt) 🎸 🥁
