@@ -1,6 +1,6 @@
 # Hi 👋🏻 I'm Mark Berkovics
 ## I'm a data scientist and an AI enthusiast 
-### I believe that in order to make better decisions that have a positivr impact we should base them on data
+### I believe that in order to make better decisions that have a positive impact we should base them on data
 
 * #### 🏋🏻‍♂️ I'm currently working on [BandIt](https://github.com/MarkBerkovics/BandIt) 🎸 🥁
   A generative AI model that creates music utilizing transformers architechture.<br>
