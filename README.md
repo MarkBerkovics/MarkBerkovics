@@ -15,7 +15,7 @@
   - Python, Numpy, Pandas, Scikit Learn, Tensorflof, Transformers, SQL, GCP
 
 * #### 📚 Main studies:
-  - Data Science and AI Diploma - _Le Wagon 2024_ - A full time immersive intensivs coding bootcamp<br>
+  - Data Science and AI Diploma - _Le Wagon 2024_ - A full time immersive intensive coding bootcamp<br>
   - M.Sc in Neurocience - _Bar-Ilan University 2012-2014_
   - B.Sc in Neuroscience - _Bar-Ilan University 2010-2013_
   - Practical Engineering Diploma in Audio Engineering - _Kinneret Technology College 2006-2008_
