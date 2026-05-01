@@ -1,25 +1,26 @@
 # Hi 👋🏻 I'm Mark Berkovics
-## I'm a data scientist and an AI enthusiast 
-### I believe that in order to make better decisions that have a positive impact we should base them on data
+## I'm an AI Engineer specializing in building production grade custom workflow automations.
+### I help Businesses save time, cut costs and reduce human error by implementing rigorous workflows with clear guidelines, evaluation methods and continuous quality monitoring. With experience across a variety of sectors, I focus on delivering solutions that create measurable ROI and that give business owners maximum control over the system. 
 
-* #### 🏋🏻‍♂️ I'm currently working on [BandIt](https://github.com/MarkBerkovics/BandIt) 🎸 🥁
-  A generative AI model that creates music utilizing transformers architecture.<br>
-  More specifically, you give it guitar tracks and it generates corresponding drums track.<br>
-  In the future I intend to include more musical instruments.
+Some of the solutions I've built include:
 
-* #### 👯‍♂️ I'm looking to collaborate on projects that use data science for the greater good 🌳
+🔹 Patent Attorney AI Assistant
+Drafts patent applications and responds to examiner rejections, saving 12–16 hours per month.
 
-* #### 🔍 I'm currently learning how to deploy models on GCP ☁️
+🔹 Real Estate Appraisal Report Extraction Workflow
+Reads, analyzes, and extracts key parameters from appraisal reports in minutes instead of hours.
 
-* #### ⌨️ My tech stack:
-  - Python, Numpy, Pandas, Scikit Learn, Tensorflof, Transformers, SQL, GCP
+🔹 AI-Powered Customer Support
+Intelligent chatbots that reduce support costs while improving response times and customer experience.
 
-* #### 📚 Main studies:
-  - Data Science and AI Diploma - _Le Wagon 2024_ - A full time immersive intensive coding bootcamp<br>
-  - M.Sc in Neurocience - _Bar-Ilan University 2012-2014_
-  - B.Sc in Neuroscience - _Bar-Ilan University 2010-2013_
-  - Practical Engineering Diploma in Audio Engineering - _Kinneret Technology College 2006-2008_
+🔹 Internal Q&A AI Assistant
+A chatbot trained on company-specific knowledge, reducing the time employees waste searching for information.
 
-* 🤝 Let's connect:
+These are only a few examples. The real opportunity is finding the hidden bottlenecks inside your business and turning them into automated, scalable systems.
+
+I build with robust, production-ready technologies including Python, FastAPI, RAG systems, SQL databases such as PostgreSQL, and cloud deployment on AWS, GCP, Azure, or your preferred infrastructure.
+
+
+🤝 Let's connect:
   - 📩 My email: Mark.Zen.NLP@gmail.com
   - 🔗 [My Linked In](https://www.linkedin.com/in/markberkovics/)
