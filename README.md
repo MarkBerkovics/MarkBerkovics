@@ -1,6 +1,8 @@
 # Hi 👋🏻 I'm Mark Berkovics
 ## I'm an AI Engineer specializing in building production grade custom workflow automations.
-### I help Businesses save time, cut costs and reduce human error by implementing rigorous workflows with clear guidelines, evaluation methods and continuous quality monitoring. With experience across a variety of sectors, I focus on delivering solutions that create measurable ROI and that give business owners maximum control over the system. 
+### I help Businesses save time, cut costs and reduce human error by implementing rigorous workflows with clear guidelines, evaluation methods and continuous quality monitoring. 
+
+With experience across a variety of sectors, I focus on delivering solutions that create measurable ROI and that give business owners maximum control over the system.
 
 Some of the solutions I've built include:
 
